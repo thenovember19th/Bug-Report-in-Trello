@@ -41,6 +41,8 @@ No toast message is displayed even though the login is successful.
 
 Bug evidence is attached in the repository under the /screenshots folder.
 
+![Login Bug Screenshot](Screenshots/SS.png)
+
 ### Environment
 
 **Application**: Swag Labs
