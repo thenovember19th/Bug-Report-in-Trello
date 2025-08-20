@@ -43,6 +43,8 @@ Bug evidence is attached in the repository under the /screenshots folder.
 
 ![Login Bug Screenshot](Screenshots/SS.png)
 
+![Login Bug Screenshot](Screenshots/SS2.png)
+
 ### Environment
 
 **Application**: Swag Labs
